@@ -26,3 +26,4 @@ consume el sistema de reportes.
   `carrito.datos` va a hablar con la base a través de SQLAlchemy.
 - La **API REST** reemplaza al CLI. El CLI queda como herramienta de depuración.
 - El catálogo de productos pasa a un servicio aparte y se consulta por HTTP.
+
